@@ -15,5 +15,11 @@ body {
 .container {
     position: relative;
     top: 50px;
+
+}
+.cup {
+    position: absolute;
+    width: 280px;
+    height: 300px;
     
 }
